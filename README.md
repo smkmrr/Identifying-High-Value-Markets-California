@@ -8,7 +8,7 @@ This project builds a machine learning pipeline capable of identifying whether a
 
 ## Tech Stack
 * **Language:** Python
-* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Ipykernel
 * **Techniques:** Binary Classification, Unsupervised Learning (K-Means Clustering), Hyperparameter Tuning (GridSearchCV), Data Pipeline Engineering
 
 ## Key Findings & Results
