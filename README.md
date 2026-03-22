@@ -1,5 +1,5 @@
-# Identifying High-Value Real Estate Markets
-**Author:** [Your Name]
+# Identifying High-Value Real Estate Markets in California
+**Author:** Ali AKYEL
 
 ## Business Objective
 A real estate investment firm seeks to expand into the California market, focusing exclusively on premium, high-value neighborhoods (the top 20% of the market). However, in rapidly developing areas, exact median house prices are often missing or unreliable. 
