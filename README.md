@@ -1,4 +1,5 @@
 # Identifying High-Value Real Estate Markets in California
+
 **Author:** Ali AKYEL
 
 ## Business Objective
@@ -27,5 +28,5 @@ To ensure strict reproducibility, a global random seed (`42`) was applied throug
 1. Clone this repository to your local machine.
 2. Create and activate a virtual environment (recommended).
 3. Install the required execution and data science libraries:
-   `pip install ipykernel pandas numpy scikit-learn matplotlib seaborn`
-4. Select your virtual environment as the kernel and run the `identifying_high_value_real_estate.ipynb` notebook from top to bottom.
+   ```bash
+   pip install ipykernel pandas numpy scikit-learn matplotlib seaborn
